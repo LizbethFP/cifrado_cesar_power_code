@@ -28,14 +28,14 @@ Diagrama de flujo
 
 Autoras
 ------
-Tahirih Jaliri Pancca
-Lizbeth Félix Peña
-Gaby Mamani Flores
-Laura Jimenez Hidalgo
-Kattia Rojas
-Kamaly Zapana Lorenzo
-Shanon Rivera Aranibal
-Mily Quispe Yura
+* Tahirih Jaliri Pancca
+* Lizbeth Félix Peña
+* Gaby Mamani Flores
+* Laura Jimenez Hidalgo
+* Kattia Rojas
+* Kamaly Zapana Lorenzo
+* Shanon Rivera Aranibal
+* Mily Quispe Yura
 
 
 Fecha
